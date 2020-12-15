@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9a22dff9-144c-4d2d-99ba-603d660daaa0" name="Default Changelist" comment="">
+    <list default="true" id="9a22dff9-144c-4d2d-99ba-603d660daaa0" name="Default Changelist" comment="updated the first 2 tabs. Added images for the first 2 projects.">
+      <change afterPath="$PROJECT_DIR$/assets/php/contact-form-handler.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/fulls/01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/fulls/01.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/fulls/02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/fulls/02.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/thumbs/01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/thumbs/01.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/thumbs/02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/thumbs/02.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/bg.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,12 +35,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/php" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\GitHub\My Site\rdhaliwal6.github.io\assets\php" />
       <recent name="H:\GitHub\My Site\rdhaliwal6.github.io\images" />
       <recent name="H:\GitHub\My Site\rdhaliwal6.github.io" />
     </key>
@@ -57,11 +56,34 @@
       <updated>1607848928520</updated>
       <workItem from="1607848929917" duration="1629000" />
       <workItem from="1607892653439" duration="956000" />
-      <workItem from="1607977217983" duration="3282000" />
+      <workItem from="1607977217983" duration="8480000" />
     </task>
+    <task id="LOCAL-00001" summary="updated the first 2 tabs. Added images for the first 2 projects.">
+      <created>1607980577716</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607980577716</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="updated the first 2 tabs. Added images for the first 2 projects." />
+    <option name="LAST_COMMIT_MESSAGE" value="updated the first 2 tabs. Added images for the first 2 projects." />
   </component>
 </project>
