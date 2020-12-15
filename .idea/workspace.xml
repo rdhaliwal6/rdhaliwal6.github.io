@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9a22dff9-144c-4d2d-99ba-603d660daaa0" name="Default Changelist" comment="fixed path for the contact-form-handler.php.">
-      <change beforePath="$PROJECT_DIR$/assets/php/contact-form-handler.php" beforeDir="false" afterPath="$PROJECT_DIR$/php/contact-form-handler.php" afterDir="false" />
+    <list default="true" id="9a22dff9-144c-4d2d-99ba-603d660daaa0" name="Default Changelist" comment="Took out php folder">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact-form-handler.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +58,7 @@
       <updated>1607848928520</updated>
       <workItem from="1607848929917" duration="1629000" />
       <workItem from="1607892653439" duration="956000" />
-      <workItem from="1607977217983" duration="8865000" />
+      <workItem from="1607977217983" duration="9783000" />
     </task>
     <task id="LOCAL-00001" summary="updated the first 2 tabs. Added images for the first 2 projects.">
       <created>1607980577716</created>
@@ -73,7 +74,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608021709701</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Took out php folder">
+      <created>1608022258920</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1608022258920</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,6 +102,7 @@
     <MESSAGE value="updated the first 2 tabs. Added images for the first 2 projects." />
     <MESSAGE value="added some skill and resume section. Added php for the from." />
     <MESSAGE value="fixed path for the contact-form-handler.php." />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed path for the contact-form-handler.php." />
+    <MESSAGE value="Took out php folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="Took out php folder" />
   </component>
 </project>
