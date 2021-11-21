@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9a22dff9-144c-4d2d-99ba-603d660daaa0" name="Default Changelist" comment="updated description for projects." />
+    <list default="true" id="9a22dff9-144c-4d2d-99ba-603d660daaa0" name="Default Changelist" comment="new Resume">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,15 +32,15 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/php" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\GitHub\My Site\rdhaliwal6.github.io" />
       <recent name="H:\GitHub\My Site\rdhaliwal6.github.io\assets\php" />
       <recent name="H:\GitHub\My Site\rdhaliwal6.github.io\images" />
-      <recent name="H:\GitHub\My Site\rdhaliwal6.github.io" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="H:\GitHub\My Site\rdhaliwal6.github.io" />
@@ -60,6 +62,8 @@
       <workItem from="1623735571787" duration="11000" />
       <workItem from="1623784970591" duration="34000" />
       <workItem from="1623785216510" duration="1120000" />
+      <workItem from="1635441607004" duration="655000" />
+      <workItem from="1637525298324" duration="597000" />
     </task>
     <task id="LOCAL-00001" summary="updated the first 2 tabs. Added images for the first 2 projects.">
       <created>1607980577716</created>
@@ -110,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623785906840</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="new Resume">
+      <created>1635441660478</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1635441660478</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,6 +148,7 @@
     <MESSAGE value="Updated Resume" />
     <MESSAGE value="Updated Resume email." />
     <MESSAGE value="updated description for projects." />
-    <option name="LAST_COMMIT_MESSAGE" value="updated description for projects." />
+    <MESSAGE value="new Resume" />
+    <option name="LAST_COMMIT_MESSAGE" value="new Resume" />
   </component>
 </project>
